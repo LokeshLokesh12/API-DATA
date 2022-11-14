@@ -1,0 +1,210 @@
+[
+    {
+        "cost":3359,
+        "data":"2.5GB/day",
+        "validity":365,
+        "type":"unlimited",
+        "base":"perpaid",
+        "benfits":["disney+ hotstar mobile for one year","free hellotune","wynk music free"] 
+    },
+    {
+        "cost":2999,
+        "data":"2GB/day",
+        "validity":365,
+        "type":"unlimited",
+        "base":"perpaid",
+        "benfits":["disney+ hotstar mobile for one year","free hellotune","wynk music free"] 
+    },
+    {
+        "cost":1799,
+        "data":"24GB",
+        "validity":365,
+        "type":"unlimited",
+        "base":"perpaid",
+        "benfits":["free hellotune","wynk music free"] 
+    },
+    {
+        "cost":999,
+        "data":"2GB/day",
+        "validity":84,
+        "type":"unlimited",
+        "base":"perpaid",
+        "benfits":["disney+ hotstar mobile for one year","free hellotune","wynk music free","amazon prime membership","xstream mobile pack "] 
+    },
+    {
+        "cost":839,
+        "data":"2GB/day",
+        "validity":84,
+        "type":"unlimited",
+        "base":"perpaid",
+        "benfits":["disney+ hotstar mobile for one year","free hellotune","wynk music free","amazon prime membership","xstream mobile pack"] 
+    },
+    {
+        "cost":779,
+        "data":"1.5GB/day",
+        "validity":90,
+        "type":"unlimited",
+        "base":"perpaid",
+        "benfits":["free hellotune","wynk music free"] 
+    },
+    {
+        "cost":719,
+        "data":"1.5GB/day",
+        "validity":84,
+        "type":"unlimited",
+        "base":"perpaid",
+        "benfits":["xstream mobile pack","free hellotune","wynk music free"] 
+    },
+    {
+        "cost":699,
+        "data":"3GB/day",
+        "validity":56,
+        "type":"unlimited",
+        "base":"perpaid",
+        "benfits":["disney+ hotstar mobile for one year","free hellotune","wynk music free","amazon prime membership","xstream mobile pack "] 
+    },
+    {
+        "cost":666,
+        "data":"1.5GB/day",
+        "validity":77,
+        "type":"unlimited",
+        "base":"perpaid",
+        "benfits":["free hellotune","wynk music free"] 
+    },
+    {
+        "cost":599,
+        "data":"3GB/day",
+        "validity":28,
+        "type":"unlimited",
+        "base":"perpaid",
+        "benfits":["disney+ hotstar mobile for one year","free hellotune","wynk music free"] 
+    },
+    {
+        "cost":519,
+        "data":"1.5GB/day",
+        "validity":60,
+        "type":"unlimited",
+        "base":"perpaid",
+        "benfits":["free hellotune","wynk music free"] 
+    },
+    {
+        "cost":499,
+        "data":"2GB/day",
+        "validity":28,
+        "type":"unlimited",
+        "base":"perpaid",
+        "benfits":["disney+ hotstar mobile for one year","free hellotune","wynk music free"] 
+    },
+    {
+        "cost":479,
+        "data":"1.5GB/day",
+        "validity":56,
+        "type":"unlimited",
+        "base":"perpaid",
+        "benfits":["disney+ hotstar mobile for one year","free hellotune","wynk music free"] 
+    },
+    {
+        "cost":455,
+        "data":"6GB",
+        "validity":84,
+        "type":"unlimited",
+        "base":"perpaid",
+        "benfits":["free hellotune","wynk music free"] 
+    },
+    {
+        "cost":399,
+        "data":"2.5GB/day",
+        "validity":28,
+        "type":"unlimited",
+        "base":"perpaid",
+        "benfits":["disney+ hotstar mobile for one year","free hellotune","wynk music free"] 
+    },
+    {
+        "cost":359,
+        "data":"2GB/day",
+        "validity":28,
+        "type":"unlimited",
+        "base":"perpaid",
+        "benfits":["free hellotune","wynk music free","xstream mobile pack "] 
+    },
+    {
+        "cost":319,
+        "data":"2GB/day",
+        "validity":31,
+        "type":"unlimited",
+        "base":"perpaid",
+        "benfits":["free hellotune","wynk music free"] 
+    },
+    {
+        "cost":299,
+        "data":"1.5GB/day",
+        "validity":28,
+        "type":"unlimited",
+        "base":"perpaid",
+        "benfits":["xstream mobile pack ","free hellotune","wynk music free"] 
+    },
+    {
+        "cost":296,
+        "data":"25GB",
+        "validity":30,
+        "type":"unlimited",
+        "base":"perpaid",
+        "benfits":["free hellotune","wynk music free"] 
+    },
+    {
+        "cost":265,
+        "data":"1GB/day",
+        "validity":28,
+        "type":"unlimited",
+        "base":"perpaid",
+        "benfits":["free hellotune","wynk music free"] 
+    },
+    {
+        "cost":239,
+        "data":"1GB/day",
+        "validity":24,
+        "type":"unlimited",
+        "base":"perpaid",
+        "benfits":["free hellotune","wynk music free"] 
+    },
+    {
+        "cost":209,
+        "data":"1GB/day",
+        "validity":21,
+        "type":"unlimited",
+        "base":"perpaid",
+        "benfits":["free hellotune","wynk music free"] 
+    },
+    {
+        "cost":199,
+        "data":"3GB",
+        "validity":30,
+        "type":"unlimited",
+        "base":"perpaid",
+        "benfits":["free hellotune","wynk music free"] 
+    },
+    {
+        "cost":179,
+        "data":"2GB",
+        "validity":28,
+        "type":"unlimited",
+        "base":"perpaid",
+        "benfits":["disney+ hotstar mobile for one year","free hellotune","wynk music free"] 
+    },
+    {
+        "cost":155,
+        "data":"1GB",
+        "validity":155,
+        "type":"unlimited",
+        "base":"perpaid",
+        "benfits":["disney+ hotstar mobile for one year","free hellotune","wynk music free"] 
+    },
+    {
+        "cost":3359,
+        "data":"2GB/day",
+        "validity":365,
+        "type":"unlimited",
+        "base":"perpaid",
+        "benfits":["disney+ hotstar mobile for one year","free hellotune","wynk music free"] 
+    }
+]

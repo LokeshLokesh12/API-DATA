@@ -1,0 +1,101 @@
+[
+    {
+        "plan":"infinity family plan 399",
+        "cost": 399,
+        "sim": "1 regular sim",
+        "data":"40 gb per month",
+        "call": "unlimited local/std/roaming",
+        "base":"postpaid",
+        "sms": "100 per day",
+        "benefits":["hellotune","wynk","fastag"]
+        
+    },
+    {
+        "plan":"infinity family plan 499",
+        "cost": 499,
+        "sim": "1 regular sim",
+        "data":"75 gb per month",
+        "call": "unlimited local/std/roaming",
+        "base":"postpaid",
+        "sms": "100 per day",
+        "benefits":["hellotune","wynk","fastag","disney+hotstar mobile","amazon prime"]
+        
+    },
+    {
+        "plan":"infinity family 798 + tv ",
+        "cost": 798,
+        "sim": "1 regular sim",
+        "data":"105 gb per month",
+        "call": "unlimited local/std/roaming",
+        "base":"postpaid",
+        "sms": "100 per day",
+        "benefits":["dth","hellotune","wynk","fastag"]
+        
+    },
+    {
+        "plan":"infinity family 999",
+        "cost": 999,
+        "sim": "1 regular sim + 3 family add-ons",
+        "data":"100 gb per month",
+        "call": "unlimited local/std/roaming",
+        "base":"postpaid",
+        "sms": "100 per day",
+        "benefits":["hellotune","wynk","fastag","disney+hotstar mobile","amazon prime"]
+        
+    },
+    {
+        "plan":"infinity family 499 + fiber",
+        "cost": 1089,
+        "sim": "1 regular sim",
+        "data":"75 gb per month",
+        "call": "unlimited local/std/roaming",
+        "base":"postpaid",
+        "sms": "100 per day",
+        "benefits":["hellotune","wynk","fastag","disney+hotstar mobile","amazon prime","unlimited | upto 100 mbps"]
+        
+    },
+    {
+        "plan":"infinity family plan 1199",
+        "cost": 1199,
+        "sim": "1 regular sim + 3 family add-ons",
+        "data":"150 gb per month",
+        "call": "unlimited local/std/roaming",
+        "base":"postpaid",
+        "sms": "100 per day",
+        "benefits":["hellotune","wynk","fastag","disney+hotstar mobile","amazon prime","netflix"]
+        
+    },
+    {
+        "plan":"infinity family plan 1499",
+        "cost": 1499,
+        "sim": "1 regular sim + 4 family add-ons",
+        "data":"200 gb per month",
+        "call": "unlimited local/std/roaming",
+        "base":"postpaid",
+        "sms": "100 per day",
+        "benefits":["hellotune","wynk","fastag","disney+hotstar mobile","amazon prime","netflix"]
+        
+    },
+    {
+        "plan":"infinity family 999 + fiber",
+        "cost": 1799,
+        "sim": "1 regular sim + 3 family add-ons",
+        "data":"190 gb per month",
+        "call": "unlimited local/std/roaming",
+        "base":"postpaid",
+        "sms": "100 per day",
+        "benefits":["hellotune","wynk","fastag","amazon prime","disney+hotstar mobile","unlimited | upto 200 mbps"]
+        
+    },
+    {
+        "plan":"infinity family 1199 + fiber + tv",
+        "cost": 2299,
+        "sim": "1 regular sim + 3 family add-ons",
+        "data":"240 gb per month",
+        "call": "unlimited local/std/roaming",
+        "base":"postpaid",
+        "sms": "100 per day",
+        "benefits":["hellotune","wynk","fastag","amazon prime","disney+hotstar mobile","unlimited | upto 300 mbps","dth","netflix"]
+        
+    }
+]

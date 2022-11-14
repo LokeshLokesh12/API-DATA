@@ -1,0 +1,59 @@
+[
+    
+    {
+        "cost":399,
+        "data":"2.5GB/day",
+        "validity":28,
+        "type":"cricket packs",
+        "base":"perpaid",
+        "benfits":["disney+ hotstar mobile for one year","free hellotune","wynk music free"] 
+    },
+    {
+        "cost":181,
+        "data":"1GB/day",
+        "validity":30,
+        "type":"cricket packs",
+        "base":"perpaid",
+        "benfits":["disney+ hotstar mobile for one year"] 
+    },
+    {
+        "cost":499,
+        "data":"2GB/day",
+        "validity":28,
+        "type":"cricket packs",
+        "base":"perpaid",
+        "benfits":["disney+ hotstar mobile for one year","free hellotune","wynk music free"] 
+    },
+    {
+        "cost":839,
+        "data":"2GB/day",
+        "validity":84,
+        "type":"cricket packs",
+        "base":"perpaid",
+        "benfits":["disney+ hotstar mobile for one year","free hellotune","wynk music free"] 
+    },
+    {
+        "cost":2999,
+        "data":"2GB/day",
+        "validity":365,
+        "type":"cricket packs",
+        "base":"perpaid",
+        "benfits":["disney+ hotstar mobile for one year","free hellotune","wynk music free","amazon prime membership","xstream mobile pack "] 
+    },
+    {
+        "cost":599,
+        "data":"3GB/day",
+        "validity":28,
+        "type":"cricket packs",
+        "base":"perpaid",
+        "benfits":["disney+ hotstar mobile for one year","free hellotune","wynk music free"] 
+    },
+    {
+        "cost":3359,
+        "data":"2.5GB/day",
+        "validity":365,
+        "type":"cricket packs",
+        "base":"perpaid",
+        "benfits":["disney+ hotstar mobile for one year","free hellotune","wynk music free","amazon prime membership","xstream mobile pack"] 
+    }
+]
