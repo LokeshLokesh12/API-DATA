@@ -1,0 +1,57 @@
+[
+    {
+ 
+    "user_name": "lokesh",
+    "user_id":"4645ey5475ygr5y",
+    "date":"01/02/2022",
+    "time":"10:45",
+    "paln_id":"feapfywmru908mopie",
+    "next_due":90,
+    "payment-via":"paytm",
+    "payment_id":"o07cmwep98epsvny "
+},
+    {
+   
+    "user_name": "kumar",
+    "user_id":"4645ey5475ygr5y",
+    "date":"01/02/2022",
+    "time":"10:45",
+    "paln_id":"feapfywmru908mopie",
+    "next_due":90,
+    "payment-via":"g-pay",
+    "payment_id":"o07cmwep98epsvny "
+},
+    {
+   
+    "user_name": "jerin",
+    "user_id":"4645ey5475ygr5y",
+    "date":"01/02/2022",
+    "time":"10:45",
+    "paln_id":"feapfywmru908mopie",
+    "next_due":90,
+    "payment-via":"phonepay",
+    "payment_id":"o07cmwep98epsvny "
+},
+    {
+
+    "user_name": "sathish kumar",
+    "user_id":"4645ey5475ygr5y",
+    "date":"01/02/2022",
+    "time":"10:45",
+    "paln_id":"feapfywmru908mopie",
+    "next_due":90,
+    "payment-via":"local",
+    "payment_id":"o07cmwep98epsvny "
+},
+    {
+  
+    "user_name": "kiran kumar",
+    "user_id":"4645ey5475ygr5y",
+    "date":"01/02/2022",
+    "time":"10:45",
+    "paln_id":"feapfywmru908mopie",
+    "next_due":90,
+    "payment-via":"airtel thanks",
+    "payment_id":"o07cmwep98epsvny "
+    }
+]
