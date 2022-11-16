@@ -1,0 +1,52 @@
+[
+    {
+ 
+    "user_name": "lokesh",
+    "date_of_birth": "27/03/2000",
+    "mobile_number": "9025919046",
+    "password": "Lokesh12",
+    "mail_id": "lokesh223@gmail.com",
+    "state": "tamlinadu",
+    "city": "chennai"
+},
+    {
+   
+    "user_name": "kumar",
+    "date_of_birth": "01/01/20031",
+    "mobile_number": "6369664555",
+    "password": "12",
+    "mail_id": "kumar538@gmail.com",
+    "state": "tamlinadu",
+    "city": "chennai"
+},
+    {
+   
+    "user_name": "jerin",
+    "date_of_birth": "06/09/2001",
+    "mobile_number": "9025194610",
+    "password": "jer12",
+    "mail_id": "jerin203@gmail.com",
+    "state": "tamlinadu",
+    "city": "chennai"
+},
+    {
+
+    "user_name": "sathish kumar",
+    "date_of_birth": "27/07/2001",
+    "mobile_number": "9019251046",
+    "password": "sas12",
+    "mail_id": "sathish220@gmail.com",
+    "state": "tamlinadu",
+    "city": "chennai"
+},
+    {
+  
+    "user_name": "kiran kumar",
+    "date_of_birth": "13/03/2003",
+    "mobile_number": "9020919546",
+    "password": "kir12",
+    "mail_id": "kiran03@gmail.com",
+    "state": "tamlinadu",
+    "city": "chennai"
+}
+]
